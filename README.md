@@ -1,2 +1,2 @@
-# goit-js-hw-03
-Arrays and functions.
+# goit-js-hw-04
+Objects.
